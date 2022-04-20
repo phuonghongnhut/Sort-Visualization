@@ -1,3 +1,3 @@
 # Sort-Visualization
 
-<img src="sort.gif" width="400" height="400">
+<img src="sort.gif" width="300" height="300">
